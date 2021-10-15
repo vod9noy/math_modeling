@@ -1,4 +1,4 @@
-print (type (" Hello World! "))
+print(type (" Hello World! "))
 
 print(type (3+4))
 
